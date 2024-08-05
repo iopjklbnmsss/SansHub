@@ -1,0 +1,155 @@
+SansHubwhitelist= game.Players.LocalPlayer.Name
+SansHubwhitelist = {
+    "Sanshub3",
+    "Mikeysmq",
+    "yzcs13",
+    "CN_KLFX5",
+    "114514rxcv",
+    "bhchhhlol4",
+    "bhchhhlol",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+}
+if SansHubwhitelist then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iopjklbnmsss/SansHub/main/2233",true))()
+else 
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local UICorner = Instance.new("UICorner")
+
+
+
+ScreenGui.Name = "无名单结果"
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+Frame.Name = "主体"
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.new(0.301961, 0.301961, 0.301961)
+Frame.Position = UDim2.new(0.5, -200, 0.5, -75)
+Frame.Size = UDim2.new(0, 208, 0, 84)
+Frame.Style = Enum.FrameStyle.RobloxRound
+
+TextLabel.Name = "名"
+TextLabel.Parent = Frame
+TextLabel.BackgroundTransparency = 1
+TextLabel.Position = UDim2.new(0, 0, -0.166666672, 0)
+TextLabel.Size = UDim2.new(1, 0, 0, 30)
+TextLabel.Font = Enum.Font.ArialBold
+TextLabel.Text = "小鸟客户端"
+TextLabel.TextColor3 = Color3.new(1, 1, 1)
+TextLabel.TextSize = 24
+TextLabel.TextStrokeColor3 = Color3.new(0, 0.501961, 0)
+TextLabel.TextStrokeTransparency = 0.800000011920929
+
+TextLabel_2.Name = "告"
+TextLabel_2.Parent = Frame
+TextLabel_2.BackgroundTransparency = 1
+TextLabel_2.Position = UDim2.new(0, 8, 0, 75)
+TextLabel_2.Size = UDim2.new(0.880917192, 0, 0.345805019, -70)
+TextLabel_2.Font = Enum.Font.ArialBold
+TextLabel_2.Text = "你并没有白名单"
+TextLabel_2.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_2.TextSize = 18
+TextLabel_2.TextWrapped = true
+TextLabel_2.TextXAlignment = Enum.TextXAlignment.Left
+TextLabel_2.TextYAlignment = Enum.TextYAlignment.Top
+
+UICorner.Parent = TextLabel_2
+
+local function LRNEJ_fake_script() -- TextLabel_2.字体 
+	local script = Instance.new('Script', TextLabel_2)
+
+	Sentences = {"你没有白名单","国内都是缝合狗子","30秒后就会消失","作者未知"}
+	while true do 
+	script.Parent.Text = Sentences[math.random(1,#Sentences)]
+	wait(3) 
+	end
+end
+coroutine.wrap(sb)()
+local function HXGWCR_fake_script() -- Frame.删除性 
+	local script = Instance.new('Script', Frame)
+
+	wait (30)
+	script.Parent:Destroy ()
+end
+coroutine.wrap(sb)()
+
+end

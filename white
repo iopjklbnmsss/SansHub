@@ -20,7 +20,7 @@ elseif player=="jgb_096"then
 _G.sans=true
 elseif player=="jsp_0265"then
 _G.sans=true
-elseif player=="名字"then
+elseif player=="xnskwx"then
 _G.sans=true
 elseif player=="名字"then
 _G.sans=true

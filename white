@@ -2,7 +2,7 @@ local player=tostring(game.Players.LocalPlayer.Character);
 
 if player=="sanshub3"then
 _G.sans=true
-elseif player=="Mikeysmq"then
+elseif player=="mikeysmq"then
 _G.sans=true
 elseif player=="yzcs13"then
 _G.sans=true

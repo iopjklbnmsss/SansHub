@@ -32,7 +32,7 @@ elseif player=="mmddll9"then
 _G.sans=true
 elseif player=="sbdsbbw321"then
 _G.sans=true
-elseif player=="名字"then
+elseif player=="fjejffkm"then
 _G.sans=true
 elseif player=="名字"then
 _G.sans=true
@@ -140,7 +140,7 @@ local Screen = Instance.new("ScreenGui",game.CoreGui)
 	Frame2:TweenSize(UDim2.new(1,0,0.05,0),nil,nil,0.3)
 	TweenService:Create(TextLabel,TweenInfo.new(1.5),{TextTransparency = 0}):Play()
 	wait(3)
-	TextLabel.Text = "我并没有发现你的白名单"
+	TextLabel.Text = "我们无法检索到你的个人用户名请尝试购买名单"
 	wait(1.5)
 	TextLabel.Text = "好了再见"
 	wait(1.5)

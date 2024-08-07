@@ -44,7 +44,7 @@ elseif player=="guagejiadao6"then
 _G.sans=true
 elseif player=="SansHub1242"then
 _G.sans=true
-elseif player=="名字"then
+elseif player=="NianFas"then
 _G.sans=true
 elseif player=="名字"then
 _G.sans=true

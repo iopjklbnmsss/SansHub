@@ -112,7 +112,7 @@ elseif player=="名字"then
 _G.sans=true
 end
 if _G.sans==true then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iopjklbnmsss/SansHub/main/2233",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iopjklbnmsss/all/main/slap",true))()
     else
 local Screen = Instance.new("ScreenGui",game.CoreGui)
 	Screen.ResetOnSpawn = false

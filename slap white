@@ -2,73 +2,73 @@ local player=tostring(game.Players.LocalPlayer.Character);
 
 if player=="sanshub3"then
 _G.sans=true
-elseif player=="mikeysmq"then
+elseif player==""then
 _G.sans=true
-elseif player=="yzcs13"then
+elseif player==""then
 _G.sans=true
-elseif player=="CN_KLFX5"then
+elseif player=="C"then
 _G.sans=true
-elseif player=="114514rxcv"then
+elseif player==""then
 _G.sans=true
-elseif player=="bhchhhlol4"then
+elseif player==""then
 _G.sans=true
-elseif player=="bhchhhlol"then
+elseif player==""then
 _G.sans=true
-elseif player=="chengshiru2"then
+elseif player==""then
 _G.sans=true
-elseif player=="jgb_096"then
+elseif player==""then
 _G.sans=true
-elseif player=="jsp_0265"then
+elseif player==""then
 _G.sans=true
-elseif player=="xnskwx"then
+elseif player==""then
 _G.sans=true
-elseif player=="jojstty"then
+elseif player==""then
 _G.sans=true
-elseif player=="qwktey"then
+elseif player==""then
 _G.sans=true
-elseif player=="yzcs13"then
+elseif player==""then
 _G.sans=true
-elseif player=="mmddll9"then
+elseif player==""then
 _G.sans=true
-elseif player=="sbdsbbw321"then
+elseif player==""then
 _G.sans=true
-elseif player=="fjejffkm"then
+elseif player==""then
 _G.sans=true
-elseif player=="guagejiadao7"then
+elseif player==""then
 _G.sans=true
-elseif player=="wsxbjorfgxh"then
+elseif player==""then
 _G.sans=true
-elseif player=="qwe372831"then
+elseif player==""then
 _G.sans=true
-elseif player=="guagejiadao6"then
+elseif player==""then
 _G.sans=true
-elseif player=="woleigelei2"then
+elseif player==""then
 _G.sans=true
-elseif player=="NianFas"then
+elseif player==""then
 _G.sans=true
-elseif player=="114514yfu"then
+elseif player==""then
 _G.sans=true
-elseif player=="123qwehuuh1"then
+elseif player==""then
 _G.sans=true
-elseif player=="ertt_18"then
+elseif player==""then
 _G.sans=true
-elseif player=="xxzlfoc"then
+elseif player==""then
 _G.sans=true
-elseif player=="wsbbhhhhhhhhhh31"then
+elseif player==""then
 _G.sans=true
-elseif player=="hllfl28"then
+elseif player==""then
 _G.sans=true
-elseif player=="Xiaoxiaobai_01"then
+elseif player==""then
 _G.sans=true
-elseif player=="Kelly114514"then
+elseif player==""then
 _G.sans=true
-elseif player=="chonger67"then
+elseif player==""then
 _G.sans=true
-elseif player=="chonger66"then
+elseif player==""then
 _G.sans=true
-elseif player=="qwas24689"then
+elseif player==""then
 _G.sans=true
-elseif player=="q2e3r45t"then
+elseif player==""then
 _G.sans=true
 elseif player=="名字"then
 _G.sans=true

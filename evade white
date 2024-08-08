@@ -6,11 +6,11 @@ elseif player=="guo_china"then
 _G.sans=true
 elseif player=="名字"then
 _G.sans=true
-elseif player=="wsbbhhhhhhhhhh31"then
+elseif player==""then
 _G.sans=true
-elseif player=="guagejiadao6"then
+elseif player==""then
 _G.sans=true
-elseif player=="wsbbhhhhhhhhhh"then
+elseif player==""then
 _G.sans=true
 elseif player=="名字"then
 _G.sans=true
